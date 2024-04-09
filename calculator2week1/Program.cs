@@ -24,8 +24,8 @@ namespace calculator2week1
             if (myOperator == "/")
             {
                 Console.WriteLine(firstNumber / secondNumber);
-                if (myOperator == "*").
-                        }
+            }
+            if (myOperator == "*")
             {
                 Console.WriteLine(firstNumber * secondNumber);
             }
