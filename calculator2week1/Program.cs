@@ -19,7 +19,7 @@ namespace calculator2week1
             }
              if (myOperator == "-")
             {
-                Console.WriteLine(firstNumber - secondNumber);
+                Console.WriteLine(firstNumber -  secondNumber);
             }
             if (myOperator == "/")
             {
